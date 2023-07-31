@@ -10,6 +10,8 @@ create a new react application:
 3) npm install
 4) npm run dev
 
+# Styling
 
+Bootstrap is used for easier styling. It was installed via : npm install bootstrap
 
 
