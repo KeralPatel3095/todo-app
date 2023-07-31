@@ -1,10 +1,10 @@
-# React + TypeScript + Vite
+# Simple To-Do List Application
 
-This template provides a minimal setup to get React working in Vite.
+A simple to-do list application built with React and TypeScript.
+
+# Project SetUp
 
 create a new react application:
-
-step follwed:
 1) npx create-vite@latest ToDo-App
 2) cd my-todo-app
 3) npm install
