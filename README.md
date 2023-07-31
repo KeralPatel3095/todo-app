@@ -14,4 +14,8 @@ create a new react application:
 
 Bootstrap is used for easier styling. It was installed via : npm install bootstrap
 
+# Creating Component
+
+src/components -> new file -> TodoList.tsx.
+
 
